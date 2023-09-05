@@ -9,9 +9,6 @@
 
 <p align="left">안녕하세요~!</p>
 <p align="left">저는 사용자의 불편함에 깊게 공감하며, 해결법을 찾아 나서는 프론트엔드 개발자 <strong>일리야</strong>입니다.</br>
-<strong>중앙대학교 컴퓨터공학부</strong>를 전공하였으며, 각종 <strong>문제를 해결하기</strong>에 적합한 <strong>글로벌한 뷰</strong>,<strong>도전 정신</strong> 및 <strong>좋은 체력</strong>을 가지고 있습니다.</br> 
-현재는 구직 활동 중에 있습니다.
-</p>
 <hr> 
 
 <p>🛠 TECH STACK 🛠</p>
